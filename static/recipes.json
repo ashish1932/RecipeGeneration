@@ -1,0 +1,902 @@
+[
+    {
+        "title": "Recipe 1",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_1.jpg"
+    },
+    {
+        "title": "Recipe 2",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Marinate chicken.",
+            "Stir-fry with garlic.",
+            "Add soy sauce.",
+            "Cook till done.",
+            "Garnish and serve."
+        ],
+        "image": "images/recipe_2.jpg"
+    },
+    {
+        "title": "Recipe 3",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Marinate chicken.",
+            "Stir-fry with garlic.",
+            "Add soy sauce.",
+            "Cook till done.",
+            "Garnish and serve."
+        ],
+        "image": "images/recipe_3.jpg"
+    },
+    {
+        "title": "Recipe 4",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_4.jpg"
+    },
+    {
+        "title": "Recipe 5",
+        "ingredients": [
+            "1 chicken breast",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "spring onion"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_5.jpg"
+    },
+    {
+        "title": "Recipe 6",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_6.jpg"
+    },
+    {
+        "title": "Recipe 7",
+        "ingredients": [
+            "1 chicken breast",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "spring onion"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_7.jpg"
+    },
+    {
+        "title": "Recipe 8",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_8.jpg"
+    },
+    {
+        "title": "Recipe 9",
+        "ingredients": [
+            "1 chicken breast",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "spring onion"
+        ],
+        "instructions": [
+            "Marinate chicken.",
+            "Stir-fry with garlic.",
+            "Add soy sauce.",
+            "Cook till done.",
+            "Garnish and serve."
+        ],
+        "image": "images/recipe_9.jpg"
+    },
+    {
+        "title": "Recipe 10",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_10.jpg"
+    },
+    {
+        "title": "Recipe 11",
+        "ingredients": [
+            "potatoes",
+            "oil",
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "instructions": [
+            "Marinate chicken.",
+            "Stir-fry with garlic.",
+            "Add soy sauce.",
+            "Cook till done.",
+            "Garnish and serve."
+        ],
+        "image": "images/recipe_11.jpg"
+    },
+    {
+        "title": "Recipe 12",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_12.jpg"
+    },
+    {
+        "title": "Recipe 13",
+        "ingredients": [
+            "potatoes",
+            "oil",
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_13.jpg"
+    },
+    {
+        "title": "Recipe 14",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_14.jpg"
+    },
+    {
+        "title": "Recipe 15",
+        "ingredients": [
+            "potatoes",
+            "oil",
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_15.jpg"
+    },
+    {
+        "title": "Recipe 16",
+        "ingredients": [
+            "1 chicken breast",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "spring onion"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_16.jpg"
+    },
+    {
+        "title": "Recipe 17",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_17.jpg"
+    },
+    {
+        "title": "Recipe 18",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_18.jpg"
+    },
+    {
+        "title": "Recipe 19",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_19.jpg"
+    },
+    {
+        "title": "Recipe 20",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_20.jpg"
+    },
+    {
+        "title": "Recipe 21",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Marinate chicken.",
+            "Stir-fry with garlic.",
+            "Add soy sauce.",
+            "Cook till done.",
+            "Garnish and serve."
+        ],
+        "image": "images/recipe_21.jpg"
+    },
+    {
+        "title": "Recipe 22",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Marinate chicken.",
+            "Stir-fry with garlic.",
+            "Add soy sauce.",
+            "Cook till done.",
+            "Garnish and serve."
+        ],
+        "image": "images/recipe_22.jpg"
+    },
+    {
+        "title": "Recipe 23",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Slice potatoes.",
+            "Fry until golden.",
+            "Sprinkle salt and paprika.",
+            "Serve hot."
+        ],
+        "image": "images/recipe_23.jpg"
+    },
+    {
+        "title": "Recipe 24",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Slice potatoes.",
+            "Fry until golden.",
+            "Sprinkle salt and paprika.",
+            "Serve hot."
+        ],
+        "image": "images/recipe_24.jpg"
+    },
+    {
+        "title": "Recipe 25",
+        "ingredients": [
+            "potatoes",
+            "oil",
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_25.jpg"
+    },
+    {
+        "title": "Recipe 26",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_26.jpg"
+    },
+    {
+        "title": "Recipe 27",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_27.jpg"
+    },
+    {
+        "title": "Recipe 28",
+        "ingredients": [
+            "200g spaghetti",
+            "100g minced beef",
+            "1 onion",
+            "2 tomatoes",
+            "salt",
+            "pepper"
+        ],
+        "instructions": [
+            "Slice potatoes.",
+            "Fry until golden.",
+            "Sprinkle salt and paprika.",
+            "Serve hot."
+        ],
+        "image": "images/recipe_28.jpg"
+    },
+    {
+        "title": "Recipe 29",
+        "ingredients": [
+            "200g spaghetti",
+            "100g minced beef",
+            "1 onion",
+            "2 tomatoes",
+            "salt",
+            "pepper"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_29.jpg"
+    },
+    {
+        "title": "Recipe 30",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_30.jpg"
+    },
+    {
+        "title": "Recipe 31",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Slice potatoes.",
+            "Fry until golden.",
+            "Sprinkle salt and paprika.",
+            "Serve hot."
+        ],
+        "image": "images/recipe_31.jpg"
+    },
+    {
+        "title": "Recipe 32",
+        "ingredients": [
+            "potatoes",
+            "oil",
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_32.jpg"
+    },
+    {
+        "title": "Recipe 33",
+        "ingredients": [
+            "1 chicken breast",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "spring onion"
+        ],
+        "instructions": [
+            "Marinate chicken.",
+            "Stir-fry with garlic.",
+            "Add soy sauce.",
+            "Cook till done.",
+            "Garnish and serve."
+        ],
+        "image": "images/recipe_33.jpg"
+    },
+    {
+        "title": "Recipe 34",
+        "ingredients": [
+            "potatoes",
+            "oil",
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_34.jpg"
+    },
+    {
+        "title": "Recipe 35",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_35.jpg"
+    },
+    {
+        "title": "Recipe 36",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_36.jpg"
+    },
+    {
+        "title": "Recipe 37",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_37.jpg"
+    },
+    {
+        "title": "Recipe 38",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "100g flour",
+            "sugar",
+            "vanilla essence"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_38.jpg"
+    },
+    {
+        "title": "Recipe 39",
+        "ingredients": [
+            "potatoes",
+            "oil",
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_39.jpg"
+    },
+    {
+        "title": "Recipe 40",
+        "ingredients": [
+            "1 chicken breast",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "spring onion"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_40.jpg"
+    },
+    {
+        "title": "Recipe 41",
+        "ingredients": [
+            "1 chicken breast",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "spring onion"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_41.jpg"
+    },
+    {
+        "title": "Recipe 42",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_42.jpg"
+    },
+    {
+        "title": "Recipe 43",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Boil the spaghetti.",
+            "Fry the beef.",
+            "Add onions and tomatoes.",
+            "Simmer.",
+            "Serve."
+        ],
+        "image": "images/recipe_43.jpg"
+    },
+    {
+        "title": "Recipe 44",
+        "ingredients": [
+            "potatoes",
+            "oil",
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_44.jpg"
+    },
+    {
+        "title": "Recipe 45",
+        "ingredients": [
+            "potatoes",
+            "oil",
+            "salt",
+            "pepper",
+            "paprika"
+        ],
+        "instructions": [
+            "Marinate chicken.",
+            "Stir-fry with garlic.",
+            "Add soy sauce.",
+            "Cook till done.",
+            "Garnish and serve."
+        ],
+        "image": "images/recipe_45.jpg"
+    },
+    {
+        "title": "Recipe 46",
+        "ingredients": [
+            "200g spaghetti",
+            "100g minced beef",
+            "1 onion",
+            "2 tomatoes",
+            "salt",
+            "pepper"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_46.jpg"
+    },
+    {
+        "title": "Recipe 47",
+        "ingredients": [
+            "200g spaghetti",
+            "100g minced beef",
+            "1 onion",
+            "2 tomatoes",
+            "salt",
+            "pepper"
+        ],
+        "instructions": [
+            "Cook rice.",
+            "Fry vegetables.",
+            "Add rice and soy sauce.",
+            "Add egg.",
+            "Mix and serve."
+        ],
+        "image": "images/recipe_47.jpg"
+    },
+    {
+        "title": "Recipe 48",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_48.jpg"
+    },
+    {
+        "title": "Recipe 49",
+        "ingredients": [
+            "1 chicken breast",
+            "soy sauce",
+            "garlic",
+            "ginger",
+            "spring onion"
+        ],
+        "instructions": [
+            "Whisk eggs and milk.",
+            "Add flour and sugar.",
+            "Mix well.",
+            "Cook on pan.",
+            "Serve with syrup."
+        ],
+        "image": "images/recipe_49.jpg"
+    },
+    {
+        "title": "Recipe 50",
+        "ingredients": [
+            "1 cup rice",
+            "vegetables",
+            "soy sauce",
+            "egg",
+            "oil"
+        ],
+        "instructions": [
+            "Marinate chicken.",
+            "Stir-fry with garlic.",
+            "Add soy sauce.",
+            "Cook till done.",
+            "Garnish and serve."
+        ],
+        "image": "images/recipe_50.jpg"
+    }
+]
